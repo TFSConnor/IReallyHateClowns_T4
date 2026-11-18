@@ -39,7 +39,7 @@ Material:
     - _QueueControl: 1
     - _Reflection_Strength: 0.1
     - _Shore_Foam_Scale: 5
-    - _Smoothness: 0.053
+    - _Smoothness: 0.448
     - _Water_Trail_Mask: 1.19
     - _Water_Trail_Strength: 0
     m_Colors:
